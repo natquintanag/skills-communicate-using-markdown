@@ -4,6 +4,7 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+
 ```javascript
 // Code example for the course
 const msg = "Hello, Markdown!";
@@ -12,3 +13,4 @@ console.log(msg);
 - [x] Turn on GitHub Pages
 - [x] Outline my portfolio
 - [ ] Introduce myself to the world
+
